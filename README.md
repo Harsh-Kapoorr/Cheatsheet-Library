@@ -9,8 +9,7 @@ Steps to contribute in this repository
 
     1. Get An Issue Assigned To You
     2. Fork this repo
-    2. Propose/Update a cheatsheet of your choice or as assigned.
-    3. Add useful code for the open-source community
+    3. Propose/Update a cheatsheet of your choice or as assigned.
     4. Make pull request
     5. Now, it time for review by the team
 
