@@ -1,1 +1,1 @@
-# Cheetsheet-Libraray
+# Cheatsheet-Library
